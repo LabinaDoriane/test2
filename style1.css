@@ -1,0 +1,23 @@
+.card {
+    box-shadow: 0 8px 16px 0 #9DBFAF;
+    color: black;
+    
+    text-align: center;
+  }
+  .temps {
+    
+    padding: 10px;
+    color: black;
+    background-color: #9BDEAC;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    
+  }
+  .minia {
+    color: black;
+  }
+.lien{
+    text-decoration: none;
+    color: black;
+  }
